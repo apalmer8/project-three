@@ -190,4 +190,10 @@ p {
 img {
 	border: 2px solid black;
 }
-}
+.slideshow {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+.slideshow ul {
+      margin:0;
+    }
