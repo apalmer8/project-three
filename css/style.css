@@ -17,7 +17,7 @@ html {
 
 }
 .container {
-	font-family: lucida calligraphy;
+	font-family: "lucida calligraphy";
 	color: #ff949B;
 
 
@@ -59,7 +59,7 @@ html {
 
 .wrapper {
 	width: 100%;
-	font-family: lucida calligraphy;
+	font-family: "lucida calligraphy";
 	color: pink;
 
 }
@@ -95,7 +95,7 @@ h1 {
 	height: 1600px;
 }
 .wrapper {
-	font-family: lucida calligraphy;
+	font-family: "lucida calligraphy";
 	color: #ff949B;
 	font-size: 10px;
 	width: 100%;
@@ -174,7 +174,7 @@ p {
   margin: 0 5%;
 }
 #lower {
-  font-family: lucida calligraphy;
+  font-family: "lucida calligraphy";
   font-size: 1.1em;
   float: left;
   width: 35%;
