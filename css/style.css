@@ -139,12 +139,7 @@ p {
 #page3 {
 	text-align: center;
 }
-.orient {
-	float: left;
-	width: 50%;
-	position: relative;
-	left: 40px;
-}
+
 
 #story {
 	position: relative;
@@ -168,20 +163,7 @@ p {
 	left: 200px;
 
 }
-#upper {
-  float: left;
-  width: 50%;
-  margin: 0 5%;
-}
-#lower {
-  font-family: "lucida calligraphy";
-  font-size: 1.1em;
-  float: left;
-  width: 35%;
-  margin: 0 5% 0 0;
-  position: relative;
-  top: 40px;
-}
+
 #image {
   position: relative;
   top: 180px;
