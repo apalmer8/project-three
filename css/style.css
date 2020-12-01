@@ -193,7 +193,11 @@ img {
 .slideshow {
       max-width: 600px;
       margin: 0 auto;
-    }
+}
 .slideshow ul {
       margin:0;
-    }
+}
+.final {
+	position: relative;
+	left: 100px;
+}
